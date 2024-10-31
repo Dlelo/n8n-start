@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "n8n-nodes-soaprequest": "^1.1.0"
+  }
+}
