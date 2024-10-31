@@ -1,4 +1,4 @@
-## How to run project
+## How to run this project
 
 1. git clone this repository
 
